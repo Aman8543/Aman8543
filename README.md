@@ -73,6 +73,8 @@ Passionate Full Stack Developer with experience in designing and building scalab
 
 A full-stack online coding platform inspired by competitive programming websites.
 
+Live Demo : https://codemaster-peach.vercel.app/
+
 #### Key Features
 
 * Secure Authentication & Authorization
@@ -86,13 +88,15 @@ A full-stack online coding platform inspired by competitive programming websites
 
 #### Tech Stack
 
-React.js, Node.js, Express.js, MongoDB, Redis, JWT
+React.js, Node.js, Express.js, MongoDB, Redis, JWT, Judge0, Monaco
 
 ---
 
 ### DSA Visualizer
 
 An interactive platform for understanding Data Structures and Algorithms through visual learning.
+
+Live Demo: https://dsa-visualizer-frontend.vercel.app/
 
 #### Key Features
 
@@ -111,6 +115,8 @@ React.js, JavaScript, Tailwind CSS
 ---
 
 ### Scribble Game
+
+Live Demo: https://scribble-game12.netlify.app/
 
 A real-time multiplayer drawing and guessing game inspired by Skribbl.io.
 
