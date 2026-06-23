@@ -155,8 +155,6 @@ React.js, Node.js, Express.js, Socket.IO
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman8543\&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8543\&layout=compact)
 
 ---
